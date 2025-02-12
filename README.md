@@ -34,7 +34,7 @@ GOOGLE_SHEET_IDS=id_таблицы1,id_таблицы2
 
 ### 3. Запуск приложения
 ```bash
-docker-compose up --build
+docker-compose up
 ```
 
 ---
